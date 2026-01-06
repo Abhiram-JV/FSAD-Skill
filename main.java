@@ -2,5 +2,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Git Version Control!");
         System.out.println("This is the initial version of the project.");
+        
+        // Bug Fix: Corrected application behavior
+        System.out.println("Bug Fix: Fixed initialization issues");
     }
 }

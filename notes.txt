@@ -1,0 +1,10 @@
+Git Version Control Lab Notes
+==============================
+
+This project demonstrates:
+- Basic Git operations
+- Branch management
+- Merge conflict resolution
+- Remote repository integration
+
+Initial version created on January 6, 2026

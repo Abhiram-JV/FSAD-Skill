@@ -1,13 +1,5 @@
-public class Main {
+class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Git Version Control!");
-        System.out.println("This is the initial version of the project.");
-        
-        // Feature Update: Added new functionality
-        System.out.println("Feature Update: Enhanced with version tracking");
-        System.out.println("Version: 2.0");
-        
-        // Bug Fix: Corrected application behavior
-        System.out.println("Bug Fix: Fixed initialization issues");
+        System.out.println("Git Lab Experiment-1");
     }
 }
